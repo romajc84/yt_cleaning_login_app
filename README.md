@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-- [Mtechviral YT Cleaning App Login](https://www.youtube.com/watch?v=HW1P25kG0_k)
+- [Part 1 Mtechviral YT Cleaning App Login](https://www.youtube.com/watch?v=HW1P25kG0_k)
+
+- [Part 2 Mtechviral YT Travel UI w/ Animations](https://www.youtube.com/watch?v=IijBHKiE9mI)
 
 ## Getting Started
 

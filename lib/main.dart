@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: OnboardingPage1(),
+      home: LoginPage1(),
       theme: ThemeData(
         accentColor: Coolors.purplish,
         primaryColor: Coolors.orangish,
